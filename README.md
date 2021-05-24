@@ -1,4 +1,4 @@
-<p align="center">MC-Platform</p>
+<p align="center">Musica</p>
 
 ## About Project
 
